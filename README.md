@@ -769,4 +769,3 @@ Additional Requirements
 a.	All these operations should be transactional.
 b.	You must use JPA and persist the user data into a database. If you are on Amazon EC2, you need to use MySQL; For GCP, you can use either Cloud Datastore, or Cloud SQL.  
 c.	Please add proper JavaDoc comments.
-d.	You must keep your server running for at least three weeks upon submission. Once your code is submitted to Canvas, you cannot make any further deployment/upload to your app on the server, or it will be considered as late submission or even cheating. You may be asked to show the server log and deployment history upon the TA’s request.
